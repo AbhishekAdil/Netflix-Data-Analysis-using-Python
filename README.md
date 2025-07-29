@@ -18,3 +18,8 @@ Questions Solved :-
 5. Which year has the most filmmed movies?
 
 
+<img width="886" height="607" alt="Screenshot 2025-07-29 234013" src="https://github.com/user-attachments/assets/cbc4cc3b-ec54-4f51-a3a5-72b7e8d157b8" />
+
+<img width="745" height="706" alt="Screenshot 2025-07-29 233952" src="https://github.com/user-attachments/assets/2b89f7a6-4066-47c5-a4eb-d8098219f045" />
+
+<img width="738" height="722" alt="Screenshot 2025-07-29 233938" src="https://github.com/user-attachments/assets/c1e0d1f8-5fc0-4f0e-b193-59d0723b8953" />
